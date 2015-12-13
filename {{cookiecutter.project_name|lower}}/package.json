@@ -1,0 +1,9 @@
+{
+  "name": "{{ cookiecutter.project_name }}",
+  "version": "0.0.0",
+  "description": "{{ cookiecutter.description }}",
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.1.4"
+  }
+}
